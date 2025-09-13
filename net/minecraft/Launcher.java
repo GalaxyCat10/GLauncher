@@ -225,7 +225,7 @@ AppletStub {
 
     public URL getDocumentBase() {
         try {
-            return new URL("http://www.minecraft.net/infdev/");
+            return new URL("https://www.GalaxyCat10.github.io/McNoir.github.io/");
         }
         catch (MalformedURLException e) {
             e.printStackTrace();
